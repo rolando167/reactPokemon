@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/reactPokemon/static/js/main.79f6038d.chunk.js",
-    "main.js.map": "/reactPokemon/static/js/main.79f6038d.chunk.js.map",
+    "main.js": "/reactPokemon/static/js/main.5c9f07a3.chunk.js",
+    "main.js.map": "/reactPokemon/static/js/main.5c9f07a3.chunk.js.map",
     "runtime-main.js": "/reactPokemon/static/js/runtime-main.aa3021e6.js",
     "runtime-main.js.map": "/reactPokemon/static/js/runtime-main.aa3021e6.js.map",
-    "static/js/2.5db3ceda.chunk.js": "/reactPokemon/static/js/2.5db3ceda.chunk.js",
-    "static/js/2.5db3ceda.chunk.js.map": "/reactPokemon/static/js/2.5db3ceda.chunk.js.map",
+    "static/js/2.8a87d5d3.chunk.js": "/reactPokemon/static/js/2.8a87d5d3.chunk.js",
+    "static/js/2.8a87d5d3.chunk.js.map": "/reactPokemon/static/js/2.8a87d5d3.chunk.js.map",
     "index.html": "/reactPokemon/index.html",
-    "precache-manifest.8a87f904a1287c6bc5213b1e5af1255d.js": "/reactPokemon/precache-manifest.8a87f904a1287c6bc5213b1e5af1255d.js",
+    "precache-manifest.44e25c36a1d307db7abfc40c13187241.js": "/reactPokemon/precache-manifest.44e25c36a1d307db7abfc40c13187241.js",
     "service-worker.js": "/reactPokemon/service-worker.js",
-    "static/js/2.5db3ceda.chunk.js.LICENSE.txt": "/reactPokemon/static/js/2.5db3ceda.chunk.js.LICENSE.txt"
+    "static/js/2.8a87d5d3.chunk.js.LICENSE.txt": "/reactPokemon/static/js/2.8a87d5d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa3021e6.js",
-    "static/js/2.5db3ceda.chunk.js",
-    "static/js/main.79f6038d.chunk.js"
+    "static/js/2.8a87d5d3.chunk.js",
+    "static/js/main.5c9f07a3.chunk.js"
   ]
 }
